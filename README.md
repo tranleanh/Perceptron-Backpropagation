@@ -10,5 +10,7 @@ step 2: output_file
 Perceptron:
 ![picture](added_w0_perceptron.png)
 
+
 Data:
+
 ![picture](data.png)
