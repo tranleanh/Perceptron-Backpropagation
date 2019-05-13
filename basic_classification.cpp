@@ -35,11 +35,10 @@ int main() {
 	w2 = 0;
 	learning_rate = 0.3;
 
-	ofstream myfile("w0_updated_E_out.txt");
+	ofstream myfile("Error_per_epoch.txt");
 
 	for (int j = 0; j < epoch; j++) {
 		cout << "epoch " << j + 1 << endl;
-		//cout << " x1 | x2 |  w0  |  w1  |  w2  |  S   | y | t\n" << endl;
 		E = 0;
 
 		// Training for each epoch
@@ -55,8 +54,6 @@ int main() {
 			updated_w0 = w0 + learning_rate * error;
 			updated_w1 = w1 + x1[i] * learning_rate * error;
 			updated_w2 = w2 + x2[i] * learning_rate * error;
-
-			//printf(" %d  | %d  | %.2f | %.2f | %.2f | %.2f | %d | %d\n", x1[i], x2[i], w0, w1, w2, S, y, t[i]);
 
 			w0 = updated_w0;
 			w1 = updated_w1;
