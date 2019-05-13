@@ -12,3 +12,5 @@ step 2: output_file
 Perceptron and Data:
 ![picture](added_w0_perceptron.png)
 ![picture](data.png)
+
+Tran Le Anh
