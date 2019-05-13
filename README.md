@@ -6,3 +6,9 @@ run the programs (in terminal):
 step 1: g++ -o output_file filename.cpp
 
 step 2: output_file
+
+Perceptron:
+![picture](added_w0_perceptron.png)
+
+Data:
+![picture](data.png)
