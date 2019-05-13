@@ -12,5 +12,4 @@ Perceptron:
 
 
 Data:
-
 ![picture](data.png)
