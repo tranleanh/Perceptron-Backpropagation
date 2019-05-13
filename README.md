@@ -7,9 +7,8 @@ step 1: g++ -o output_file filename.cpp
 
 step 2: output_file
 
-Perceptron:
+(Update 1)
+
+Perceptron and Data:
 ![picture](added_w0_perceptron.png)
-
-
-Data:
 ![picture](data.png)
