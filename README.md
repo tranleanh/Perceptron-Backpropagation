@@ -1,4 +1,4 @@
-# And-Or-Gate-Perceptron
+# Basic-Perceptron
 This repo includes C++ Sources of Delta Rule and Perceptron Training Algorithm to deal with the And/Or Gate Problem using Single-Layer Perceptron.
 
 run the programs (in terminal):
