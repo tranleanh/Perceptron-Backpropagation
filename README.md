@@ -13,4 +13,7 @@ Perceptron and Data:
 ![picture](added_w0_perceptron.png)
 ![picture](data.png)
 
+Example Model for Back-Propagation
+![picture](Back-Propagation/simple-model.png)
+
 Tran Le Anh
