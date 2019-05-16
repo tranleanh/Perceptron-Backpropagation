@@ -1,5 +1,5 @@
 # Basic-Perceptron
-This repo includes C++ and Python Sources of some algorithms for Perceptron and Classification. 
+This repo includes C++ and Python Sources of some algorithms for Perceptron and Classification. "Back-Propagation" includes the jupyter notebook implementation of back-prog algorithm. "Perceptron-C" consists of the implementaions of some basic perceptron-based classification algorithm.
 
 Run the C++ programs (in terminal):
 
