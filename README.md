@@ -1,13 +1,11 @@
 # Basic-Perceptron
-This repo includes C++ Sources of Delta Rule and Perceptron Training Algorithm to deal with the And/Or Gate Problem and a Basic Classification Problem using Single-Layer Perceptron.
+This repo includes C++ and Python Sources of some algorithms for Perceptron and Classification. 
 
-run the programs (in terminal):
+Run the C++ programs (in terminal):
 
 step 1: g++ -o output_file filename.cpp
 
 step 2: output_file
-
-(Update 1)
 
 Perceptron and Data:
 ![picture](added_w0_perceptron.png)
